@@ -74,7 +74,7 @@
 <p>Copiez et collez ces commandes dans votre terminal :</p>
 
 <pre><code># Cloner le projet
-git clone https://github.com/votre-utilisateur/winscreen.git
+git clone https://github.com/Hugo-Menial/winscreen.git
 
 # Entrer dans le dossier
 cd winscreen
