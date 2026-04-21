@@ -86,6 +86,7 @@ pip install -r requirements.txt
 
 # Installer les dépendances
 executer installer_ffmpeg.bat
+une fois installer executer ffmpeg.exe
 
     
 # Lancer l'application
