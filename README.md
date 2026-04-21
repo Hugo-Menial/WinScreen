@@ -80,16 +80,22 @@ git clone https://github.com/votre-utilisateur/winscreen.git
 cd winscreen
 
 # Installer les dépendances
+    executer installer.bat
+             ou
 pip install -r requirements.txt
 
+# Installer les dépendances
+executer installer_ffmpeg.bat
+
+    
 # Lancer l'application
-python main.py</code></pre>
+executer lancer.bat</code></pre>
 
 <hr>
 
 <h2>🚀 Utilisation</h2>
 <ol>
-    <li><b>Lancement</b> : Exécutez <code>main.py</code>.</li>
+    <li><b>Lancement</b> : Exécutez <code>lancer.bat</code>.</li>
     <li><b>Sélection</b> : Choisissez entre le mode <b>Image</b> ou <b>Vidéo</b>.</li>
     <li><b>Capture</b> : Définissez votre zone de capture à la souris.</li>
     <li><b>Stockage</b> : Retrouvez vos fichiers dans le dossier <code>data/captures/</code>.</li>
